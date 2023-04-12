@@ -1,0 +1,21 @@
+h1{
+    font-size: 80px;
+    color: blue;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+}
+#texto1{
+    font-size: 130px;
+    color: aqua;perda progressiva da estrutura ou funcionamento dos neurônios
+}
+
+table{
+     
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid blue;
+}
