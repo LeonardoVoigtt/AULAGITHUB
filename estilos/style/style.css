@@ -1,0 +1,61 @@
+div{
+    width: 200px;
+    height: 300px;
+}
+
+.divSticky{
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    left: 400px;
+
+}
+.divrelativo{
+    background-color:blue;
+    position: relative;
+    top: 400px;
+    left: 150px;
+}
+.divFixed{
+    background-color:chocolate;
+    position: fixed;
+    top:200px;
+    left: 200px;
+}
+.divstatic{
+
+    background-color:red;
+    position: static;
+    top:300px;
+    left: 300px;
+}
+.divAbsolute{
+    
+   
+    background-color:darkcyan;
+    position:absolute;
+    top:80px;
+    left: 30px;
+}
+
+.divAlingCenter{
+    background-color:brown;
+    margin:40px auto ;
+}
+.divAlingleft{
+    background-color:pink;
+    float:right;
+}
+.divMenu{
+    background-color:yellow;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 100%;
+  
+
+
+}
+
